@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header-txt{
+    background: rgb(179, 96, 80);
+width: 1440px;
+height: 47px;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 9px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.item{
+    width: 424px;
+    display: flex;
+    gap: 32px;
+}
+.header-right{
+    width: 432px;
+    display: flex;
+    gap: 29px;
+    align-items: center;
+    padding-left: 353px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px 5px 22px;
+}
+.backround{
+width: 1440px;
+height: 435px;
+background-image: url(../images/daeurl.svg);
+text-align: center;
+}
+.shop-now{
+    margin-top: 332px;
+    background: rgb(180, 95, 77);
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.main{
+    background: rgb(169, 174, 141);
+    width: 1440px;
+    height: 304px;
+    padding-top: 60px;
+    padding-left: 70px;
+    color: rgb(246, 244, 236);
+}
+.cmain{
+width: 1440px;
+height: 835px;
+background-color: rgb(246, 244, 236);
+}
+.txt-cmain{
+    text-align: center;
+    color: rgb(180, 95, 77);
+    padding-top: 39px;
+}
+.cmain-img1{
+width: 380px;
+height: 567px;
+padding-top: 123px;
+padding-left: 83px;
+color: rgb(180, 95, 77);
+}
+.cmain-img2{
+width: 380px;
+height: 567px;
+padding-top: 123px;
+padding-left: 83px;
+color: rgb(180, 95, 77);
+}
+.cmain-img3{
+    width: 380px;
+height: 567px;
+padding-top: 123px;
+padding-left: 83px;
+color: rgb(180, 95, 77);
+}
+.imgv{
+    display: flex;
+    gap: 60px;
+}
+.cmain2{
+    background: rgb(255, 255, 255);
+}
+.cmain2-img{
+    position: absolute;
+background-image: url(../images/image\ 3.svg);
+width: 1219px;
+height: 414px; 
+top: 1720px;
+left: 345px;
+}
+.cmain2-txt{
+    position: absolute;
+    top: 2170px;
+}
